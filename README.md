@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/sungj921028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sungj921028" height="30" width="40" /></a>
 <a href="https://instagram.com/sungj_10_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sungj_10_28" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sungj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sungj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sungj41147005S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sungj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
