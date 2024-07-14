@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm 傅靖嘉</h1>
-<h3 align="center">A student from NTNU CSIE🏫</h3>
+<h1 align="center">Hi 👋, I'm 傅靖嘉, you can also call me SunGJ or GJ.</h1>
+<h3 align="center">A student from NTNU CSIE🏫 in Taiwan</h3>
 
 - 🌱 I’m currently learning **Frameworks, Docker, school course..**
 
 - 📫 How to reach me **sungj921028@gmail.com**
 
-- ⚡ Fun fact **I love cat**
+- ⚡ Fun fact: **I love cat**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sungj921028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sungj921028" height="30" width="40" /></a>
 <a href="https://instagram.com/sungj_10_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sungj_10_28" height="30" width="40" /></a>
