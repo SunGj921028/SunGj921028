@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Docker, school course..**
 
-- 📫 How to reach me **sungj921028@gmail.com**
+- 📫 How to reach me **GJ921028@gmail.com**
 
 - ⚡ Fun fact: **I love cat**
 
