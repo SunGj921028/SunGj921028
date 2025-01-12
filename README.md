@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Frameworks, Docker, school course..**
 
-- 📫 How to reach me **GJ921028@gmail.com**
+- 📫 How to reach me **sungj921028@gmail.com**
 
-- ⚡ Fun fact: **I love cat**
+- ⚡ Fun fact: **I love cat, and I'm still a student.**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
